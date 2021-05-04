@@ -1,7 +1,7 @@
 # Pedro.news
 
-Pedro.news is an subscription demo application.
-In this repo, i used Typescript, Next.js and Stripe to make a modern and well written application, exploring Next.js (SSR) features in a JAMStack application.
+Pedro.news is a subscription demo application.
+In this repo, I used Typescript, Next.js and Stripe to make a modern and well-written application, exploring the capabilities of Next.js (SSR) in a JAMStack application.
 
 ## [LIVE DEMO](https://pedronews.vercel.app/)
 
